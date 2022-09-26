@@ -1,17 +1,16 @@
 import telebot
+from bot_token import token
 
 callbackId = 0
-
-token = "5026378742:AAHAkS3w2SeUpsHgdi6JwW-ncemhlcfrPlU"
 
 bot = telebot.TeleBot(token)
 
 KirillBiruylinId = "504747701"
 pId = "1686106185"
-
+# -794669285
 sphereId = {
     "communication": "-699610490",
-    "space": "-794669285",
+    "space": "-1001764457618",
     "event": "-692349819",
     "test": "-793685251",
     "studX": "-1001621769831"
