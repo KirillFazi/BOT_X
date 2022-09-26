@@ -40,12 +40,10 @@ def callback(call):
         create_start_keyboard(userId, answer_to_dining_room)
 
     elif data == "tableware":
-        print(userId)
         bot.send_message(sphereId["space"], "Закончились столовые приборы. Нужно купить.")
         create_start_keyboard(userId, answer_to_dining_room)
 
     elif data == "plates":
-        print(userId)
         bot.send_message(sphereId["space"], "Закончились тарлеки. Нужно купить.")
         create_start_keyboard(userId, answer_to_dining_room)
 
