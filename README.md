@@ -1,4 +1,4 @@
-# Project Name
+# BOT X
 This is a Telegram bot developed in Python that allows users to make requests, leave feedback, and receive notifications about various events happening in a community. The bot provides a user-friendly interface with customized keyboards and interactive messages.
 
 ## Getting Started
